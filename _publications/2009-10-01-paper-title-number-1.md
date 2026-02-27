@@ -7,6 +7,6 @@ date: 2025-05-12
 venue: 'Immunology'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/imm.13952?af=R'
 citation: 'Palma, A. The Landscape of SPP1+ Macrophages Across Tissues and Diseases: A Comprehensive Review. Immunology (2025)'
-image: /images/Graphical_Abstract.png
+image: images/Graphical_Abstract.png
 ---
 
