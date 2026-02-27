@@ -18,7 +18,7 @@ Our research focuses on macrophages and microglia in neurological and muscular d
 <div style="display:flex; gap:30px; align-items:flex-start; flex-wrap:wrap;">
 
 <div style="flex:0 0 350px;">
-<img src="{{ site.baseurl }}/images/npc_microglia.png" style="width:100%; border-radius:8px;">
+<img src="{{ site.baseurl }}/images/bulbs.png" style="width:100%; border-radius:8px;">
 </div>
 
 <div style="flex:1; min-width:300px;">
