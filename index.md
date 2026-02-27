@@ -5,7 +5,7 @@ permalink: /
 author_profile: false
 ---
 
-<img src="{{ site.baseurl }}/images/BMDM_Npc1_KO_confocale.png" style="max-width:600px; "width:100%; border-radius:8px; margin-bottom:30px;">
+<img src="{{ site.baseurl }}/images/BMDM_Npc1_KO_confocale.png" style="width:400px; float:right; margin-left:25px; margin-bottom:20px; border-radius:8px;">
 
 
 ## Macrophage Biology & Neuroimmunology Lab
