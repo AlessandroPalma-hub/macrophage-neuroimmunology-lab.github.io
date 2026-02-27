@@ -12,75 +12,53 @@ The Macrophage Biology & Neuroimmunology Lab investigates how myeloid cells adap
 Our research focuses on macrophages and microglia in neurological and muscular disorders. We integrate transcriptomic profiling with functional experimental approaches, including CRISPR/Cas9 genome editing and primary macrophage models.
 
 ---
+<hr>
 
-## Neuroimmune interactions in neurological disease
-
-<div style="display:flex; gap:30px; align-items:flex-start; flex-wrap:wrap;">
-
-<div style="flex:0 0 250px;">
+<div style="margin-top:40px;">
 <img src="{{ site.baseurl }}/images/bulbs.png" style="width:100%; border-radius:8px;">
-</div>
+<h2>Neuroimmune interactions in neurological disease</h2>
 
-<div style="flex:1; min-width:300px;">
-
+<p>
 We investigate how microglia and other myeloid populations respond to neurodegenerative processes.
+</p>
 
-A major focus of the lab is the study of Niemann–Pick type C disease, where lipid accumulation and lysosomal dysfunction profoundly alter microglial function.
+<p>
+A major focus of the lab is <strong>Niemann–Pick type C disease</strong>, a lysosomal storage disorder characterized by lipid accumulation and neurodegeneration.
+</p>
 
-We are particularly interested in:
-
-- microglial activation states
-- lysosomal dysfunction
-- the role of autophagy in neurodegeneration
-
-</div>
-
+<p>
+Our work explores how lysosomal dysfunction alters microglial activation, metabolism, and autophagy pathways.
+</p>
 </div>
 
 ---
 
-## Macrophages in muscle degeneration and regeneration
-
-<div style="display:flex; gap:30px; align-items:flex-start; flex-wrap:wrap;">
-
-<div style="flex:0 0 250px;">
+<div style="margin-top:40px;">
 <img src="{{ site.baseurl }}/images/muscle_macro.png" style="width:100%; border-radius:8px;">
-</div>
+<h2>Macrophages in muscle degeneration and regeneration</h2>
 
-<div style="flex:1; min-width:300px;">
+<p>
+Macrophages play a central role in muscle regeneration and fibrosis.
+</p>
 
-Macrophages play a key role in muscle regeneration and fibrosis.
-
-Our work investigates how macrophage subpopulations contribute to the pathogenesis of Duchenne muscular dystrophy.
-
-We study:
-
-- macrophage heterogeneity in dystrophic muscle
-- inflammatory versus pro-fibrotic macrophage states
-- interactions between macrophages and muscle stem cells
-
-</div>
+<p>
+We study macrophage populations in <strong>Duchenne muscular dystrophy</strong> and investigate how different macrophage states contribute to muscle degeneration, regeneration, and fibrotic remodeling.
+</p>
 
 </div>
 
 ---
 
-## Functional genomics of macrophage identity
-
-<div style="display:flex; gap:30px; align-items:flex-start; flex-wrap:wrap;">
-
-<div style="flex:0 0 250px;">
+<div style="margin-top:40px;">
 <img src="{{ site.baseurl }}/images/BMDM_Npc1_KO_confocale.png" style="width:100%; border-radius:8px;">
-</div>
+<h2>Functional genomics of macrophage identity</h2>
 
-<div style="flex:1; min-width:300px;">
+<p>
+To understand the molecular mechanisms controlling macrophage identity, we integrate transcriptomic profiling with functional perturbation experiments.
+</p>
 
-To understand the molecular mechanisms controlling macrophage identity, we integrate transcriptomic analysis with functional perturbation experiments.
-
-Using CRISPR/Cas9 genome editing and bone marrow–derived macrophage (BMDM) models, we test candidate genes and pathways identified through computational analyses.
-
-Our goal is to connect gene regulatory networks with macrophage function in disease contexts.
-
-</div>
+<p>
+Using <strong>CRISPR/Cas9 genome editing</strong> and bone marrow–derived macrophage (BMDM) models, we test candidate genes and pathways identified through computational analyses.
+</p>
 
 </div>
