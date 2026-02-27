@@ -7,4 +7,5 @@ date: 2024-08-03
 venue: 'Experimental Cell Research'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S001448272400288X'
 citation: 'A. Vitaliti, A. Reggio, M. Colletti, A. Galardi, A. Palma. Integration of single-cell datasets depicts profiles of macrophages and fibro/adipogenic progenitors in dystrophic muscle. Experimental Cell Research (2025)'
+image: single-cell-mdx.png
 ---
