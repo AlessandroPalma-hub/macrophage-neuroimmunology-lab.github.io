@@ -15,7 +15,7 @@ Our research focuses on macrophages and microglia in neurological and muscular d
 <hr>
 
 <div style="margin-top:40px;">
-<img src="{{ site.baseurl }}/images/bulbs.png" style="width:100%; border-radius:8px;">
+<img src="{{ site.baseurl }}/images/bulbs.png" style="width:60%; border-radius:8px;">
 <h2>Neuroimmune interactions in neurological disease</h2>
 
 <p>
@@ -34,7 +34,7 @@ Our work explores how lysosomal dysfunction alters microglial activation, metabo
 ---
 
 <div style="margin-top:40px;">
-<img src="{{ site.baseurl }}/images/muscle_macro.png" style="width:100%; border-radius:8px;">
+<img src="{{ site.baseurl }}/images/muscle_macro.png" style="width:60%; border-radius:8px;">
 <h2>Macrophages in muscle degeneration and regeneration</h2>
 
 <p>
@@ -50,7 +50,7 @@ We study macrophage populations in <strong>Duchenne muscular dystrophy</strong> 
 ---
 
 <div style="margin-top:40px;">
-<img src="{{ site.baseurl }}/images/BMDM_Npc1_KO_confocale.png" style="width:100%; border-radius:8px;">
+<img src="{{ site.baseurl }}/images/BMDM_Npc1_KO_confocale.png" style="width:60%; border-radius:8px;">
 <h2>Functional genomics of macrophage identity</h2>
 
 <p>
