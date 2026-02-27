@@ -1,3 +1,10 @@
+---
+layout: single
+title: "About"
+permalink: /about/
+author_profile: true
+---
+
 ## Macrophage Biology & Neuroimmunology Lab
 
 The Macrophage Biology & Neuroimmunology Lab investigates immune cell heterogeneity across tissues and explores how macrophages and microglia contribute to disease processes.
