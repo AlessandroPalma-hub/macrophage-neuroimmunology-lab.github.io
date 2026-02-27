@@ -41,18 +41,18 @@ Google Scholar: https://scholar.google.com/citations?hl=it&user=bpWCXqAAAAAJ&vie
 
 <div style="display:flex; gap:40px; flex-wrap:wrap;">
 
-<div style="flex:0 0 220px;">
-<img src="{{ site.baseurl }}/images/collaborator1.jpg" style="width:100%; border-radius:8px;">
+<div style="flex:0 0 220px; text-align:center;">
+<i class="fa fa-user-circle" style="font-size:120px; color:#b0b0b0;"></i>
 <p><strong>Sonia Canterini</strong><br>Associate Professor</p>
 </div>
 
-<div style="flex:0 0 220px;">
-<img src="{{ site.baseurl }}/images/collaborator2.jpg" style="width:100%; border-radius:8px;">
+<div style="flex:0 0 220px; text-align:center;">
+<i class="fa fa-user-circle" style="font-size:120px; color:#b0b0b0;"></i>
 <p><strong>Chiara Projetti</strong><br>PhD student</p>
 </div>
 
-<div style="flex:0 0 220px;">
-<img src="{{ site.baseurl }}/images/collaborator3.jpg" style="width:100%; border-radius:8px;">
+<div style="flex:0 0 220px; text-align:center;">
+<i class="fa fa-user-circle" style="font-size:120px; color:#b0b0b0;"></i>
 <p><strong>Roberta Stefanelli</strong><br>Post-doctoral Researcher</p>
 </div>
 
