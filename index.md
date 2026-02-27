@@ -3,6 +3,11 @@ layout: single
 title: "Macrophage Biology & Neuroimmunology Lab"
 permalink: /
 author_profile: true
+
+header:
+  overlay_image: /images/BMDM_Npc1_KO_confocale.tif
+  overlay_filter: 0.5
+  caption: "Macrophage single-cell atlas"
 ---
 
 ## Macrophage Biology & Neuroimmunology Lab
