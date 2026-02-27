@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <img src="{{ site.baseurl }}/images/BMDM_Npc1_KO_confocale.png" 
-style="width:450px; float:right; margin-left:30px; margin-bottom:20px; border-radius:8px;">
+style="width:350px; float:right; margin-left:30px; margin-bottom:20px; border-radius:8px;">
 
 ## Macrophage Biology & Neuroimmunology Lab
 
