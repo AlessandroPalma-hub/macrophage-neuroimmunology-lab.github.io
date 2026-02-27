@@ -16,13 +16,25 @@ We integrate experimental immunology with computational genomics, including sing
 
 ---
 
-## Research Areas
+<hr>
 
-### 🔬 Macrophage Heterogeneity
-Transcriptional diversity and differentiation trajectories across tissues and disease contexts.
+<h2>Research Areas</h2>
 
-### 🧠 Neuroimmunology
-Microglial responses in neurodegeneration and lysosomal storage disorders.
+<div style="display:flex; gap:30px; flex-wrap:wrap;">
 
-### 🧬 Single-Cell Genomics
-Integrative computational analysis of large-scale single-cell datasets.
+<div style="flex:1; min-width:250px; background:#f4f6f8; padding:20px; border-radius:10px;">
+<h3>🔬 Macrophage Heterogeneity</h3>
+<p>Transcriptional diversity and differentiation trajectories across tissues and disease contexts.</p>
+</div>
+
+<div style="flex:1; min-width:250px; background:#f4f6f8; padding:20px; border-radius:10px;">
+<h3>🧠 Neuroimmunology</h3>
+<p>Microglial responses in neurodegeneration and lysosomal storage disorders.</p>
+</div>
+
+<div style="flex:1; min-width:250px; background:#f4f6f8; padding:20px; border-radius:10px;">
+<h3>🧬 Single-Cell & Spatial Genomics</h3>
+<p>Integrative computational analysis of large-scale single-cell and spatial datasets.</p>
+</div>
+
+</div>
