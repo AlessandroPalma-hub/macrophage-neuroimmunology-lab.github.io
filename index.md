@@ -5,7 +5,7 @@ permalink: /
 author_profile: false
 
 header:
-  overlay_image: /images/BMDM_Npc1_KO_confocale.png
+  overlay_image: images/BMDM_Npc1_KO_confocale.png
   overlay_filter: 0.5
   caption: "Confocal imaging of BMDMs"
   actions:
