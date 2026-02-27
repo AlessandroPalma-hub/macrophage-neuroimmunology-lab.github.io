@@ -1,20 +1,12 @@
 ---
-layout: splash
+layout: single
 title: "Macrophage Biology & Neuroimmunology Lab"
 permalink: /
 author_profile: false
-
-header:
-  image: images/BMDM_Npc1_KO_confocale.png
-  overlay_filter: 0.5
-  caption: "Confocal imaging of BMDMs"
-
-actions:
-  - label: "Research"
-    url: "/research/"
-  - label: "Publications"
-    url: "/publications/"
 ---
+
+<img src="{{ site.baseurl }}/images/BMDM_Npc1_KO_confocale.png" style="width:100%; border-radius:8px; margin-bottom:30px;">
+
 
 ## Macrophage Biology & Neuroimmunology Lab
 
