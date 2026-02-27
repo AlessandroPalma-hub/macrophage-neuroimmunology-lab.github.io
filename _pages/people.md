@@ -45,21 +45,24 @@ Sapienza University of Rome
 
 ## Collaborators
 
-<div style="display:flex; gap:40px; flex-wrap:wrap;">
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:30px; margin-top:20px;">
 
-<div style="flex:0 0 220px; text-align:center;">
-<i class="fa fa-user-circle" style="font-size:120px; color:#b0b0b0;"></i>
-<p><strong>Sonia Canterini</strong><br>Associate Professor</p>
+<div style="text-align:center; padding:20px; border-radius:10px; background:#f5f5f5;">
+<i class="fa fa-user-circle" style="font-size:90px; color:#b0b0b0;"></i>
+<h4 style="margin-top:15px;">Sonia Canterini</h4>
+<p>Associate Professor</p>
 </div>
 
-<div style="flex:0 0 220px; text-align:center;">
-<i class="fa fa-user-circle" style="font-size:120px; color:#b0b0b0;"></i>
-<p><strong>Chiara Projetti</strong><br>PhD student</p>
+<div style="text-align:center; padding:20px; border-radius:10px; background:#f5f5f5;">
+<i class="fa fa-user-circle" style="font-size:90px; color:#b0b0b0;"></i>
+<h4 style="margin-top:15px;">Chiara Projetti</h4>
+<p>PhD student</p>
 </div>
 
-<div style="flex:0 0 220px; text-align:center;">
-<i class="fa fa-user-circle" style="font-size:120px; color:#b0b0b0;"></i>
-<p><strong>Roberta Stefanelli</strong><br>Post-doctoral Researcher</p>
+<div style="text-align:center; padding:20px; border-radius:10px; background:#f5f5f5;">
+<i class="fa fa-user-circle" style="font-size:90px; color:#b0b0b0;"></i>
+<h4 style="margin-top:15px;">Roberta Stefanelli</h4>
+<p>Post-doctoral Researcher</p>
 </div>
 
 </div>
