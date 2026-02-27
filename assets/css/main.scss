@@ -50,7 +50,11 @@ $max-width: 1300px;
 
 /* Wider content for lab website */
 
-.wrapper {
+.page__inner-wrap {
+  max-width: 1300px;
+}
+
+.archive {
   max-width: 1300px;
 }
 
