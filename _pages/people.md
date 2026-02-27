@@ -15,21 +15,27 @@ author_profile: false
 
 <div style="flex:1; min-width:300px;">
 
-**Alessandro Palma, PhD**
+<h3>Alessandro Palma, PhD</h3>
 
-Assistant Professor  
-Department of Psychology, Division of Neuroscience 
+<p>
+Assistant Professor<br>
+Department of Psychology, Division of Neuroscience<br>
 Sapienza University of Rome
+</p>
 
-Research interests:
+<p><strong>Research interests</strong></p>
 
-- Macrophage biology
-- Neuroimmunology
-- Single-cell and spatial transcriptomics
-- Functional genomics and CRISPR perturbations
+<ul>
+<li>Macrophage biology</li>
+<li>Neuroimmunology</li>
+<li>Single-cell and spatial transcriptomics</li>
+<li>Functional genomics and CRISPR perturbations</li>
+</ul>
 
-ORCID: https://orcid.org/0000-0003-1300-5479 
-Google Scholar: https://scholar.google.com/citations?hl=it&user=bpWCXqAAAAAJ&view_op=list_works&sortby=pubdate
+<p>
+<a href="https://orcid.org/0000-0003-1300-5479">ORCID</a><br>
+<a href="https://scholar.google.com/citations?hl=it&user=bpWCXqAAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+</p>
 
 </div>
 
