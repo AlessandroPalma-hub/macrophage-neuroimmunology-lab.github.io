@@ -2,7 +2,7 @@
 layout: single
 title: "Macrophage Biology & Neuroimmunology Lab"
 permalink: /
-author_profile: true
+author_profile: false
 
 header:
   overlay_image: /images/BMDM_Npc1_KO_confocale.png
