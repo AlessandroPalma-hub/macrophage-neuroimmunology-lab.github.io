@@ -74,3 +74,15 @@ $max-width: 1300px;
 .masthead__menu-item a:hover {
   color: #cfe3ff !important;
 }
+.masthead,
+.greedy-nav {
+  background-color: #1f4e79 !important;
+}
+
+.greedy-nav a {
+  color: white !important;
+}
+
+.greedy-nav a:hover {
+  color: #cfe3ff !important;
+}
