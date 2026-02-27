@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Alessandro Palma, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Rome"
   employer         : "Sapienza University of Rome"
   uri              : "https://research.uniroma1.it/researcher/90b2653543700330ca47033a519f98217bed1a3111b31b0622d595ca"
   email            : "none@example.org" 
