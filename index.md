@@ -22,19 +22,22 @@ We integrate experimental immunology with computational genomics, including sing
 
 <div style="display:flex; gap:30px; flex-wrap:wrap;">
 
-<div style="flex:1; min-width:250px; background:#f4f6f8; padding:20px; border-radius:10px;">
+<div style="flex:1; min-width:280px; background:#f4f6f8; padding:25px; border-radius:12px;">
 <h3>🔬 Macrophage Heterogeneity</h3>
-<p>Transcriptional diversity and differentiation trajectories across tissues and disease contexts.</p>
+<p>Understanding transcriptional diversity and differentiation trajectories of macrophages across tissues and disease contexts.</p>
+<a href="{{ site.baseurl }}/research/" style="font-weight:bold;">Learn more →</a>
 </div>
 
-<div style="flex:1; min-width:250px; background:#f4f6f8; padding:20px; border-radius:10px;">
+<div style="flex:1; min-width:280px; background:#f4f6f8; padding:25px; border-radius:12px;">
 <h3>🧠 Neuroimmunology</h3>
-<p>Microglial responses in neurodegeneration and lysosomal storage disorders.</p>
+<p>Investigating microglial responses in neurodegenerative disorders and lysosomal storage diseases.</p>
+<a href="{{ site.baseurl }}/research/" style="font-weight:bold;">Learn more →</a>
 </div>
 
-<div style="flex:1; min-width:250px; background:#f4f6f8; padding:20px; border-radius:10px;">
+<div style="flex:1; min-width:280px; background:#f4f6f8; padding:25px; border-radius:12px;">
 <h3>🧬 Single-Cell & Spatial Genomics</h3>
-<p>Integrative computational analysis of large-scale single-cell and spatial datasets.</p>
+<p>Integrating single-cell RNA sequencing, trajectory inference, and spatial transcriptomics.</p>
+<a href="{{ site.baseurl }}/research/" style="font-weight:bold;">Learn more →</a>
 </div>
 
 </div>
