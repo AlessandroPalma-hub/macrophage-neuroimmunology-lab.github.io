@@ -44,7 +44,7 @@ We are particularly interested in:
 <div style="display:flex; gap:30px; align-items:flex-start; flex-wrap:wrap;">
 
 <div style="flex:0 0 250px;">
-<img src="{{ site.baseurl }}/images/muscle_macrophages.png" style="width:100%; border-radius:8px;">
+<img src="{{ site.baseurl }}/images/muscle_macro.png" style="width:100%; border-radius:8px;">
 </div>
 
 <div style="flex:1; min-width:300px;">
@@ -70,7 +70,7 @@ We study:
 <div style="display:flex; gap:30px; align-items:flex-start; flex-wrap:wrap;">
 
 <div style="flex:0 0 250px;">
-<img src="{{ site.baseurl }}/images/crispr_macrophage.png" style="width:100%; border-radius:8px;">
+<img src="{{ site.baseurl }}/images/BMDM_Npc1_KO_confocale.png" style="width:100%; border-radius:8px;">
 </div>
 
 <div style="flex:1; min-width:300px;">
