@@ -13,5 +13,4 @@ Our research integrates experimental immunology with computational genomics, inc
 
 ### Approach
 
-We combine experimental and computational methods to understand immune cell dynamics and their role in human disease.---
-permalink: /
+We combine experimental and computational methods to understand immune cell dynamics and their role in human disease.
