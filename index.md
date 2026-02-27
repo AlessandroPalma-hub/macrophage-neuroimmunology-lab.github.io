@@ -8,6 +8,7 @@ header:
   overlay_image: /images/BMDM_Npc1_KO_confocale.png
   overlay_filter: 0.5
   caption: "Macrophage single-cell atlas"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/3/38/JPEG_example_JPG_RIP_100.jpg
 ---
 
 ## Macrophage Biology & Neuroimmunology Lab
