@@ -61,17 +61,22 @@ $max-width: 1300px;
 .initial-content {
   max-width: 1300px;
 }
+
+
 /* Header color */
 
-.masthead,
+.masthead {
+  background-color: #1f4e79 !important;
+}
+
 .greedy-nav {
   background-color: #1f4e79 !important;
 }
 
-.greedy-nav a {
+.greedy-nav .visible-links a {
   color: white !important;
 }
 
-.greedy-nav a:hover {
+.greedy-nav .visible-links a:hover {
   color: #cfe3ff !important;
 }
