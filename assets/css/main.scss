@@ -73,10 +73,16 @@ $max-width: 1300px;
   background-color: #1f4e79 !important;
 }
 
+.greedy-nav .visible-links {
+  background-color: #1f4e79 !important;
+}
+
 .greedy-nav .visible-links a {
-  color: white !important;
+  color: #ffffff !important;
 }
 
 .greedy-nav .visible-links a:hover {
+  color: #cfe3ff !important;
+}over {
   color: #cfe3ff !important;
 }
