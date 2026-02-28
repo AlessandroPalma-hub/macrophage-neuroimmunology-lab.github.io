@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/IMG_5367.jpg"
+  avatar           : "images/IMG_5367.jpg"
   name             : "Alessandro Palma, PhD"
   position         : "Assistant Professor, Cell and Applied Biology"
   pronouns         : # example: "she/her"  
