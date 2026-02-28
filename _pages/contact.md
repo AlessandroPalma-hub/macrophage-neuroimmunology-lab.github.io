@@ -7,14 +7,20 @@ author_profile: true
 
 ## Contact
 
-<div id="email"></div>
+<button onclick="showEmail()" style="padding:8px 16px; border-radius:6px; border:none; background:#1f4e79; color:white; cursor:pointer;">
+Show email
+</button>
+
+<p id="email" style="margin-top:15px;"></p>
 
 <script>
-var user = "alessandro.palma2";
-var domain = "uniroma1.it";
-var email = user + "@" + domain;
-document.getElementById("email").innerHTML =
-'<strong>Email:</strong> <a href="mailto:' + email + '">' + email + '</a>';
+function showEmail() {
+  var user = "alessandro.palma";
+  var domain = "uniroma1.it";
+  var email = user + "@" + domain;
+  document.getElementById("email").innerHTML =
+  "<strong>Email:</strong> <a href='mailto:" + email + "'>" + email + "</a>";
+}
 </script>
 
 Department of Psychology  
