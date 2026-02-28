@@ -21,9 +21,6 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "Join the Lab"
-    url: /join/
-
   - title: "Contact"
     url: /contact/
   #   url: /cv-json/
