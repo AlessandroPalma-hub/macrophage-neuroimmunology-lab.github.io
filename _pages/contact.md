@@ -15,7 +15,7 @@ Show email
 
 <script>
 function showEmail() {
-  var user = "alessandro.palma";
+  var user = "alessandro.palma2";
   var domain = "uniroma1.it";
   var email = user + "@" + domain;
   document.getElementById("email").innerHTML =
