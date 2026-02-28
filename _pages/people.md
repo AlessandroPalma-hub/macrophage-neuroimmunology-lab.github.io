@@ -10,7 +10,7 @@ author_profile: false
 <div style="display:flex; gap:30px; align-items:flex-start; flex-wrap:wrap;">
 
 <div style="flex:0 0 220px; text-align:center;">
-<i class="fa fa-user-circle" style="font-size:120px; color:#b0b0b0;"></i>
+<img src="{{ site.baseurl }}/images/IMG_5367.jpg" style="width:180px; border-radius:8px;">
 </div>
 
 <div style="flex:1; min-width:300px;">
