@@ -7,4 +7,5 @@ date: 2026-09-29
 venue: 'Immunology'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/imm.70208'
 citation: 'A. Palma. A Multidimensional Framework for Interpreting Macrophage Markers in the Era of Cellular Heterogeneity. Immunology (2026)'
+image: framework.png
 ---
